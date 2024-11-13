@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: JHBAI-FileCoder
+Version: 0.1.0
+Summary: A Python package for reading any files and converting them to Base64 for unstructured data storage.
+Home-page: https://github.com/Jhbai/JHBAI_FileCoder
+Author: 熊熊
+Author-email: brianbai0101@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

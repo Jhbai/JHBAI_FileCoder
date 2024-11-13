@@ -1,0 +1,5 @@
+setup.py
+JHBAI_FileCoder.egg-info/PKG-INFO
+JHBAI_FileCoder.egg-info/SOURCES.txt
+JHBAI_FileCoder.egg-info/dependency_links.txt
+JHBAI_FileCoder.egg-info/top_level.txt
